@@ -38,6 +38,9 @@ label{
    margin-left: 30%;
     
   } 
+  a{
+    text-decoration: none;
+  }
 button{
     position: relative;
     height: 40px;
