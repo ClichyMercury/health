@@ -1,0 +1,60 @@
+
+label{
+    position:relative;
+    top: 50px;
+    font-size: 20px;
+    margin-left: 10%;
+  } 
+
+  input{
+    position: relative;
+    width: 380px;
+    height: 40px;
+    font-size: 16px;
+    margin-left: 10%;
+    border-radius: 12px;
+    border: 1px solid;
+    top: 50px;
+}
+.carré{
+    position: relative;
+    border: 1px solid ;
+    box-shadow: 0px 1px 1px 1px;
+    width: 460px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left: 40%;
+    top: 200px;
+    border-radius: 10px ;
+    height: 480px;
+    background: white;
+    
+}
+
+
+.partie_nom{
+    margin-top: 15px;
+}
+
+
+.button{
+    position: relative;
+    height: 40px;
+    width: 100px;
+    border: 1px solid;
+    background: green;
+    border-radius: 17px;
+    margin-left: 40%;
+    top: 120px;
+}
+p{
+    position: relative;
+    top: 120px;
+    margin-left: 95px;
+}
+a{
+    color: green;
+    text-decoration: none;
+}
+
+
+
